@@ -1,0 +1,5 @@
+/home/paulo/Documentos/JOGO/fase1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/paulo/Documentos/JOGO/fase1/bin/Debug/fase1.exe.mdb
+/home/paulo/Documentos/JOGO/fase1/bin/Debug/fase1.exe
+/home/paulo/Documentos/JOGO/fase1/obj/x86/Debug/fase1.exe
+/home/paulo/Documentos/JOGO/fase1/obj/x86/Debug/fase1.exe.mdb
